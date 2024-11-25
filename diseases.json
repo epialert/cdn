@@ -1,4 +1,10 @@
-{
-  "id": 1,
-  "disease": "panu"
-}
+[
+  {
+    "id": 1,
+    "disease": "panu"
+  },
+  {
+    "id": 2,
+    "disease": "bisul"
+  }
+]
