@@ -1,10 +1,10 @@
 [
   {
-    question: "apa itu panu",
-    answer: "panu adalah penyakit kulit mematikan",
+    "question": "Apa itu panu?",
+    "answer": "Panu adalah infeksi jamur pada kulit yang ditandai dengan bercak-bercak berwarna yang dapat mempengaruhi warna kulit. Panu tidak mematikan, tetapi dapat menimbulkan ketidaknyamanan dan rasa percaya diri yang berkurang."
   },
   {
-    question: "apa itu panu",
-    answer: "panu adalah penyakit kulit mematikan",
-  },
+    "question": "Apa penyebab panu?",
+    "answer": "Panu disebabkan oleh infeksi jamur Malassezia yang hidup di kulit manusia. Faktor-faktor seperti cuaca panas, kelembapan tinggi, dan kulit berminyak dapat meningkatkan risiko terjadinya panu."
+  }
 ]
