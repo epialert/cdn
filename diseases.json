@@ -1,222 +1,178 @@
 {
   "penyakit": {
-    "eczema": {
+    "actinic_keratosis": {
       "id": "1",
-      "penjelasan": "Eczema, atau dikenal sebagai dermatitis atopik, adalah penyakit kulit kronis yang menyebabkan peradangan, gatal, kemerahan, dan kulit kering. Eczema sering muncul pada anak-anak, tetapi juga dapat terjadi pada orang dewasa. Penyakit ini bersifat non-menular, sehingga tidak dapat ditularkan dari satu orang ke orang lain.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang panu? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "penjelasan": "Actinic keratosis adalah kondisi kulit yang ditandai oleh munculnya bercak atau lesi kasar dan bersisik akibat paparan sinar matahari yang berkepanjangan. Biasanya, penyakit ini muncul di area tubuh yang sering terpapar sinar matahari, seperti wajah, tangan, lengan, atau leher. Actinic keratosis dianggap sebagai lesi prakanker karena memiliki potensi untuk berkembang menjadi karsinoma sel skuamosa, jenis kanker kulit yang serius. Faktor risiko utama meliputi kulit terang, usia lanjut, dan riwayat paparan UV yang signifikan. Diagnosis dini penting agar pengobatan, seperti terapi topikal, krioterapi, atau laser, dapat mencegah perkembangan menjadi kanker.",
+      "pertanyaan": "(1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Gejala eczema meliputi kulit kering, merah, dan sangat gatal, sering disertai ruam yang muncul di area seperti wajah, leher, siku, atau lutut. Kulit dapat menjadi bersisik, pecah-pecah, atau bahkan menebal akibat sering digaruk. Pada kasus tertentu, lepuh kecil berisi cairan atau luka terbuka bisa muncul, terutama jika iritasi berlanjut. Gejala ini seringkali memburuk saat kulit terpapar alergen, iritan, atau dalam kondisi udara kering."
+          "text": "Gejala actinic keratosis meliputi munculnya bercak atau lesi kecil yang kasar, bersisik, atau berkerak pada kulit, sering kali berwarna merah, cokelat, atau keabu-abuan. Lesi ini biasanya tidak menimbulkan rasa sakit, tetapi pada beberapa kasus dapat menyebabkan gatal, perih, atau sensasi terbakar. Ukurannya dapat bervariasi dari beberapa milimeter hingga lebih besar, dan sering ditemukan di area tubuh yang terpapar sinar matahari, seperti wajah, kulit kepala, tangan, lengan, dan leher. Jika lesi berubah ukuran, bentuk, atau warna, atau mulai berdarah, perlu segera diperiksakan karena bisa menjadi tanda perkembangan ke arah kanker kulit."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyakit kulit eczema disebabkan oleh kombinasi faktor genetik dan lingkungan. Genetik memengaruhi fungsi pelindung kulit, membuatnya lebih rentan terhadap iritasi dan kehilangan kelembapan. Faktor lingkungan, seperti paparan alergen (serbuk sari, bulu hewan), iritan (sabun, deterjen), stres, dan cuaca ekstrem, juga dapat memicu atau memperburuk gejala. Sistem kekebalan yang terlalu aktif sering kali memperburuk peradangan pada kulit, sementara riwayat alergi atau asma dalam keluarga meningkatkan risiko terkena eczema."
+          "text": "Actinic keratosis disebabkan oleh kerusakan kulit akibat paparan sinar ultraviolet (UV) yang berkepanjangan, baik dari sinar matahari langsung maupun sumber buatan seperti tanning bed. Paparan UV merusak DNA di sel kulit, menyebabkan perubahan yang memicu pertumbuhan sel-sel kulit abnormal. Faktor risiko yang meningkatkan kemungkinan berkembangnya penyakit ini meliputi memiliki kulit terang, rambut pirang atau merah, mata biru atau hijau, usia lanjut, dan riwayat sering terbakar sinar matahari. Paparan kumulatif sepanjang hidup terhadap sinar UV adalah penyebab utama yang membuat area tubuh yang sering terpapar menjadi lebih rentan."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan eczema bertujuan untuk mengendalikan gejala dan mencegah kambuh. Penggunaan pelembap secara rutin membantu menjaga kulit tetap lembap, sementara krim kortikosteroid atau obat antiradang lainnya meredakan peradangan dan gatal. Untuk kasus yang lebih parah, dokter mungkin merekomendasikan antihistamin untuk mengurangi gatal atau fototerapi dengan sinar ultraviolet. Menghindari pemicu seperti alergen, iritan, dan stres juga penting untuk mencegah gejala memburuk. Jika infeksi terjadi akibat garukan, antibiotik dapat digunakan sesuai anjuran dokter."
-        }
-      ]
-    },
-    "melanoma": {
-      "id": "2",
-      "penjelasan": "Melanoma adalah jenis kanker kulit yang berbahaya dan berasal dari melanosit, sel-sel yang menghasilkan pigmen melanin, yang memberikan warna pada kulit. Melanoma adalah bentuk kanker kulit yang paling serius karena dapat menyebar (metastasis) ke organ lain jika tidak ditangani dengan cepat.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
-      "jawaban": [
-        {
-          "id": "1",
-          "kategori": "Gejala",
-          "text": "Gejala melanoma meliputi perubahan pada tahi lalat atau munculnya tahi lalat baru yang mencurigakan. Perubahan ini dapat dikenali dengan aturan **ABCDE**: bentuk tidak simetris (Asymmetry), tepi tidak rata (Border), warna tidak seragam (Color), ukuran lebih dari 6 mm (Diameter), dan perubahan yang terus berlangsung (Evolving). Tahi lalat yang terasa gatal, berdarah, atau membentuk luka juga bisa menjadi tanda melanoma. Gejala ini memerlukan perhatian medis segera untuk mencegah penyebaran lebih lanjut."
-        },
-        {
-          "id": "2",
-          "kategori": "Penyebab",
-          "text": "Penyebab utama melanoma adalah kerusakan DNA pada sel kulit akibat paparan berlebihan terhadap sinar ultraviolet (UV), baik dari matahari maupun perangkat tanning buatan. Risiko meningkat pada individu dengan kulit cerah, riwayat kulit mudah terbakar, atau paparan sinar UV di masa kecil. Faktor genetik juga berperan, terutama jika ada riwayat keluarga dengan melanoma. Selain itu, keberadaan tahi lalat abnormal atau dalam jumlah banyak, serta sistem kekebalan tubuh yang lemah, dapat meningkatkan kemungkinan berkembangnya melanoma."
-        },
-        {
-          "id": "3",
-          "kategori": "Cara Pengobatan",
-          "text": "Pengobatan melanoma tergantung pada stadium kanker, tetapi umumnya melibatkan pengangkatan tumor melalui prosedur bedah untuk tahap awal. Pada kasus yang lebih lanjut, pengobatan dapat mencakup imunoterapi untuk memperkuat sistem kekebalan tubuh, kemoterapi untuk membunuh sel kanker, terapi target untuk menyerang gen atau protein penyebab kanker, serta radioterapi untuk menghancurkan sel kanker. Jika melanoma telah menyebar ke organ lain, perawatan dapat lebih agresif dan melibatkan kombinasi berbagai terapi. Deteksi dini sangat penting untuk meningkatkan peluang kesembuhan."
-        }
-      ]
-    },
-    "atopic_dermatitis": {
-      "id": "3",
-      "penjelasan": "Dermatitis atopik, atau yang lebih dikenal sebagai eksim, adalah suatu kondisi kulit kronis yang ditandai dengan kulit kering, gatal, dan ruam merah. Kondisi ini seringkali kambuh dan mereda secara bergantian. Penyebab pasti dermatitis atopik belum sepenuhnya dipahami, namun faktor genetik dan lingkungan diduga berperan. Gejala yang umum muncul meliputi kulit yang bersisik, pecah-pecah, dan terasa sangat gatal, terutama setelah berkeringat atau terkena iritan tertentu. Dermatitis atopik seringkali dimulai pada masa kanak-kanak, namun dapat berlanjut hingga dewasa. Pengobatan dermatitis atopik bertujuan untuk mengurangi peradangan, melembapkan kulit, dan mencegah kekambuhan.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
-      "jawaban": [
-        {
-          "id": "1",
-          "kategori": "Gejala",
-          "text": "Dermatitis atopik ditandai dengan gejala yang sangat khas, yaitu kulit terasa gatal yang intens dan seringkali sulit untuk diabaikan. Kulit yang terkena umumnya akan terlihat kemerahan, kering, bersisik, dan bisa pecah-pecah. Ruam sering muncul di lipatan siku, belakang lutut, pergelangan tangan, dan leher. Selain itu, kulit juga bisa menebal akibat sering digaruk. Gejala ini seringkali memburuk pada malam hari dan dapat mengganggu kualitas tidur. Pada bayi, ruam sering muncul di pipi, kulit kepala, dan area popok."
-        },
-        {
-          "id": "2",
-          "kategori": "Penyebab",
-          "text": "Penyebab pasti dermatitis atopik belum sepenuhnya dipahami, namun dipercaya melibatkan kombinasi faktor genetik dan lingkungan. Faktor genetik memberikan kecenderungan seseorang untuk mengalami kondisi ini, sementara faktor lingkungan dapat memicu atau memperburuk gejala. Beberapa faktor lingkungan yang dapat berperan meliputi alergen seperti debu rumah, serbuk sari, bulu hewan, makanan tertentu, iritan seperti sabun atau deterjen, perubahan suhu dan kelembaban, serta stres. Selain itu, gangguan pada sistem kekebalan tubuh juga diduga berperan dalam perkembangan dermatitis atopik."
-        },
-        {
-          "id": "3",
-          "kategori": "Cara Pengobatan",
-          "text": "Pengobatan dermatitis atopik bertujuan untuk mengurangi peradangan, meredakan gatal, dan mencegah kekambuhan. Pengobatan dapat disesuaikan dengan tingkat keparahan gejala dan usia penderita. Beberapa metode pengobatan yang umum dilakukan meliputi penggunaan krim atau salep kortikosteroid untuk mengurangi peradangan, pelembap untuk menjaga kelembapan kulit, obat-obatan oral seperti antihistamin untuk mengurangi gatal, dan terapi cahaya (phototherapy) untuk kasus yang lebih berat. Selain pengobatan medis, menghindari pemicu seperti alergen, menjaga kebersihan kulit, dan mengelola stres juga sangat penting dalam mengontrol dermatitis atopik."
+          "text": "Pengobatan actinic keratosis bertujuan untuk menghilangkan lesi kulit dan mencegah perkembangannya menjadi kanker. Metode pengobatan meliputi krioterapi, yaitu pembekuan lesi dengan nitrogen cair, yang sering digunakan untuk lesi tunggal atau kecil. Untuk lesi yang lebih luas atau banyak, dokter dapat merekomendasikan krim topikal seperti fluorourasil, imiquimod, atau diclofenac, yang bekerja dengan menghancurkan sel-sel abnormal. Terapi fotodinamik, menggunakan cahaya dan obat fotosensitif, juga dapat menjadi pilihan. Dalam beberapa kasus, eksisi bedah atau laser digunakan untuk mengangkat lesi yang mencurigakan. Pencegahan dengan perlindungan sinar matahari adalah langkah penting untuk menghindari kekambuhan."
         }
       ]
     },
     "basal_cell_carcinoma": {
+      "id": "2",
+      "penjelasan": "Basal cell carcinoma (BCC) adalah jenis kanker kulit paling umum yang berkembang di lapisan basal epidermis, yaitu lapisan terdalam dari kulit. Penyakit ini sering muncul sebagai benjolan kecil yang berwarna cerah, transparan, atau sedikit merah muda, dengan pembuluh darah yang terlihat atau permukaan yang berkerak. BCC biasanya terjadi akibat paparan sinar ultraviolet (UV) yang berkepanjangan, sehingga lebih sering ditemukan di area tubuh yang sering terpapar sinar matahari, seperti wajah, leher, atau tangan. Meskipun jarang menyebar ke bagian tubuh lain, BCC dapat menyebabkan kerusakan jaringan lokal yang signifikan jika tidak segera diobati. Deteksi dini dan pengobatan, seperti eksisi bedah, krioterapi, atau terapi topikal, dapat membantu mencegah komplikasi lebih lanjut.",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "jawaban": [
+        {
+          "id": "1",
+          "kategori": "Gejala",
+          "text": "Gejala basal cell carcinoma (BCC) biasanya muncul sebagai benjolan kecil atau bercak pada kulit yang tumbuh perlahan, sering kali berwarna cerah, seperti mutiara, merah muda, atau dengan pembuluh darah kecil yang terlihat. Beberapa lesi mungkin tampak seperti luka terbuka yang tidak sembuh-sembuh, atau kembali berdarah dan berkerak. Pada kasus lain, BCC bisa terlihat sebagai bercak bersisik berwarna merah atau area kulit yang tampak seperti parut dengan batas yang tidak rata. Lesi ini sering ditemukan di area yang sering terpapar sinar matahari, seperti wajah, telinga, leher, dan tangan. Jika ada perubahan ukuran, warna, atau bentuk pada area kulit tersebut, pemeriksaan medis segera sangat dianjurkan."
+        },
+        {
+          "id": "2",
+          "kategori": "Penyebab",
+          "text": "Basal cell carcinoma (BCC) disebabkan oleh kerusakan DNA di sel basal kulit akibat paparan sinar ultraviolet (UV) yang berlebihan, baik dari sinar matahari maupun sumber buatan seperti tanning bed. Kerusakan ini mengganggu kemampuan sel untuk mengatur pertumbuhan, sehingga memicu perkembangan kanker. Faktor risiko meliputi paparan UV kumulatif seumur hidup, memiliki kulit terang, rambut pirang atau merah, mata berwarna terang, serta riwayat sering terbakar matahari. Selain itu, usia lanjut, sistem kekebalan tubuh yang lemah, dan riwayat keluarga dengan kanker kulit juga dapat meningkatkan risiko. Paparan sinar UV yang berkepanjangan adalah penyebab utama, sehingga perlindungan dari sinar matahari sangat penting untuk pencegahan."
+        },
+        {
+          "id": "3",
+          "kategori": "Cara Pengobatan",
+          "text": "Pengobatan basal cell carcinoma (BCC) bertujuan untuk mengangkat sel kanker sepenuhnya dan mencegah kekambuhan. Metode yang umum digunakan adalah eksisi bedah, di mana lesi diangkat bersama sedikit jaringan sehat di sekitarnya. Teknik Mohs microsurgery sering digunakan untuk area sensitif seperti wajah, karena memastikan pengangkatan kanker secara maksimal sambil meminimalkan kerusakan jaringan sehat. Alternatif lain termasuk krioterapi, elektrodesikasi dan kuretase, serta terapi topikal menggunakan krim seperti imiquimod atau fluorourasil untuk kasus yang lebih ringan. Terapi radiasi dapat dipertimbangkan untuk pasien yang tidak cocok menjalani operasi. Deteksi dini sangat penting agar pengobatan lebih efektif dan komplikasi dapat dihindari."
+        }
+      ]
+    },
+    "benign_keratosis": {
+      "id": "3",
+      "penjelasan": "Benign keratosis adalah istilah umum untuk sejumlah kondisi kulit yang melibatkan pertumbuhan jinak atau non-kanker pada lapisan epidermis. Contoh paling umum adalah keratosis seboroik, yang ditandai oleh bercak atau plak cokelat, hitam, atau kuning yang terasa kasar atau lilin dan biasanya muncul pada orang dewasa atau lansia. Kondisi ini tidak berbahaya dan tidak terkait dengan paparan sinar matahari, berbeda dengan keratosis aktinik. Meski penyebab pastinya belum sepenuhnya dipahami, faktor genetik dan penuaan dianggap berperan. Benign keratosis tidak memerlukan pengobatan kecuali menyebabkan ketidaknyamanan atau alasan kosmetik, yang dapat ditangani dengan pengangkatan menggunakan krioterapi, kuretase, atau laser.",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "jawaban": [
+        {
+          "id": "1",
+          "kategori": "Gejala",
+          "text": "Gejala benign keratosis biasanya berupa munculnya bercak atau lesi yang keras, berbentuk bulat atau oval, dan berwarna cokelat, hitam, atau kuning. Lesi ini memiliki tekstur kasar, seperti lilin atau berkerak, dan sering kali terasa menonjol di permukaan kulit. Ukurannya bervariasi, dari beberapa milimeter hingga beberapa sentimeter, dan biasanya tidak menimbulkan rasa sakit. Meskipun umumnya tidak berbahaya, lesi ini bisa terasa gatal atau teriritasi, terutama jika tergores atau terpapar gesekan. Benign keratosis biasanya muncul pada area tubuh yang sering terpapar sinar matahari, seperti wajah, punggung, dada, atau tangan, dan lebih sering ditemukan pada orang dewasa, terutama lansia."
+        },
+        {
+          "id": "2",
+          "kategori": "Penyebab",
+          "text": "Penyebab pasti dari benign keratosis, seperti keratosis seboroik, belum sepenuhnya dipahami, namun faktor genetik dan penuaan dianggap berperan besar dalam perkembangannya. Lesi ini lebih sering muncul pada orang dewasa atau lansia, dan biasanya disebabkan oleh perubahan alami pada sel kulit seiring bertambahnya usia. Meskipun tidak terkait langsung dengan paparan sinar matahari, kondisi ini bisa lebih sering muncul pada area kulit yang terpapar sinar UV. Selain itu, riwayat keluarga dengan kondisi serupa juga meningkatkan risiko seseorang mengembangkan benign keratosis. Faktor hormonal atau kondisi medis tertentu, seperti gangguan imun, juga dapat berkontribusi terhadap pembentukan lesi ini."
+        },
+        {
+          "id": "3",
+          "kategori": "Cara Pengobatan",
+          "text": "Pengobatan benign keratosis biasanya tidak diperlukan jika lesi tidak menyebabkan rasa sakit atau ketidaknyamanan, karena kondisi ini bersifat jinak. Namun, jika lesi mengganggu penampilan atau teriritasi, pengangkatan dapat dilakukan melalui beberapa metode. Metode yang umum digunakan termasuk krioterapi (pembekuan dengan nitrogen cair), kuretase (pengikisan lesi menggunakan alat tajam), elektrodesikasi (pemanasan untuk menghilangkan lesi), atau terapi laser. Krim topikal, seperti imiquimod, juga dapat digunakan untuk mengobati lesi pada beberapa kasus. Prosedur ini umumnya dilakukan oleh dokter kulit dan memberikan hasil yang baik, dengan risiko komplikasi yang minimal."
+        }
+      ]
+    },
+    "dermatofibroma": {
       "id": "4",
-      "penjelasan": "Karsinoma sel basal (BCC) adalah jenis kanker kulit yang paling umum. Kanker ini berasal dari sel basal yang sehat di lapisan terdalam epidermis (lapisan luar kulit). BCC biasanya muncul di area kulit yang sering terpapar sinar matahari, seperti wajah, telinga, leher, dan kulit kepala. Tampilan BCC beragam, mulai dari benjolan merah muda mutiara hingga luka terbuka yang tidak kunjung sembuh. Meskipun pertumbuhannya lambat, BCC dapat merusak jaringan di sekitarnya jika tidak segera diobati. Penyebab utama BCC adalah paparan sinar ultraviolet (UV) dari sinar matahari dalam jangka waktu yang lama.",
+      "penjelasan": "Dermatofibroma adalah benjolan jinak yang terbentuk di bawah kulit akibat penumpukan kolagen, sering muncul pada lengan, kaki, atau punggung. Lesi ini biasanya berukuran kecil, berbentuk bulat, dan berwarna cokelat atau keunguan. Meskipun tidak berbahaya, dermatofibroma dapat terasa keras dan terkadang gatal atau sedikit nyeri saat ditekan. Penyebab pasti dari kondisi ini tidak sepenuhnya diketahui, namun faktor genetik, trauma ringan, atau infeksi sebelumnya bisa berperan dalam perkembangannya. Meskipun umumnya tidak memerlukan pengobatan, dermatofibroma bisa diangkat jika mengganggu atau menyebabkan ketidaknyamanan, menggunakan prosedur seperti eksisi bedah atau krioterapi.",
       "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Karsinoma sel basal seringkali muncul sebagai benjolan kecil yang tumbuh perlahan pada area kulit yang sering terpapar sinar matahari. Benjolan ini bisa berwarna merah muda, coklat, atau hitam, dan seringkali memiliki pembuluh darah kecil di dalamnya. Selain itu, BCC juga dapat muncul sebagai luka terbuka yang tidak kunjung sembuh, bercak bersisik, atau benjolan yang mirip jerawat. Meskipun biasanya tidak terasa sakit, benjolan ini dapat mudah berdarah saat tergores. Penting untuk diingat bahwa tampilan BCC bisa sangat bervariasi dari satu orang ke orang lain, sehingga perlu dilakukan pemeriksaan oleh dokter kulit untuk memastikan diagnosis."
+          "text": "Gejala dermatofibroma biasanya meliputi munculnya benjolan kecil, keras, dan berbentuk bulat pada kulit, yang sering kali berwarna cokelat, merah muda, atau keunguan. Lesi ini umumnya terletak pada lengan, kaki, atau punggung dan memiliki permukaan yang kasar atau sedikit berbintik. Meskipun tidak menimbulkan rasa sakit, dermatofibroma bisa terasa gatal atau nyeri ringan saat ditekan atau tergesek oleh pakaian. Ukurannya bervariasi, tetapi umumnya tidak lebih besar dari 1-2 cm. Meskipun biasanya tidak berbahaya, benjolan ini dapat berkembang secara perlahan dan bertahan lama tanpa menimbulkan masalah serius."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyebab utama Basal Cell Carcinoma (BCC) adalah paparan sinar ultraviolet (UV) dari matahari dalam jangka waktu yang lama. Sinar UV merusak DNA pada sel-sel kulit, sehingga menyebabkan pertumbuhan sel yang tidak terkendali dan membentuk tumor. Faktor risiko lainnya yang dapat meningkatkan kemungkinan terkena BCC meliputi jenis kulit yang lebih terang, riwayat keluarga dengan BCC, usia yang lebih tua, serta penggunaan tanning bed. Selain itu, sistem kekebalan tubuh yang lemah juga dapat menjadi faktor pencetus."
+          "text": "Penyebab dermatofibroma tidak sepenuhnya dipahami, tetapi kondisi ini biasanya terjadi akibat respon kulit terhadap trauma ringan atau iritasi, seperti gigitan serangga, luka kecil, atau gesekan. Faktor genetik juga berperan, karena dermatofibroma cenderung lebih sering muncul pada orang yang memiliki riwayat keluarga dengan kondisi serupa. Selain itu, dermatofibroma lebih sering terjadi pada wanita dibandingkan pria, dan biasanya muncul pada usia dewasa, terutama pada usia 20 hingga 40 tahun. Meskipun trauma dianggap sebagai pemicu umum, dalam beberapa kasus, penyebabnya mungkin tidak dapat diketahui."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan Basal Cell Carcinoma (BCC) bertujuan untuk menghilangkan seluruh sel kanker dan mencegahnya kembali. Pilihan pengobatan akan disesuaikan dengan ukuran, lokasi, dan jenis BCC, serta kondisi kesehatan pasien. Beberapa metode pengobatan yang umum digunakan antara lain: operasi untuk mengangkat tumor, terapi radiasi menggunakan sinar X untuk membunuh sel kanker, terapi fotodinamik yang menggabungkan obat sensitif cahaya dan sinar laser, serta penggunaan krim atau salep obat tertentu. Penting untuk segera melakukan pengobatan karena BCC dapat terus tumbuh dan merusak jaringan di sekitarnya jika dibiarkan."
+          "text": "Pengobatan dermatofibroma biasanya tidak diperlukan jika lesi tidak menyebabkan rasa sakit atau ketidaknyamanan. Namun, jika benjolan tersebut mengganggu atau menimbulkan masalah estetika, pengangkatannya dapat dilakukan melalui prosedur bedah. Cara yang umum digunakan adalah eksisi bedah, di mana lesi diangkat bersama sedikit jaringan sehat di sekitarnya. Alternatif lain termasuk terapi krioterapi (pembekuan dengan nitrogen cair) atau elektrodesikasi (pemanasan untuk menghilangkan lesi). Meskipun dermatofibroma jinak dan jarang kambuh setelah diangkat, pengobatan selalu dilakukan oleh dokter kulit untuk memastikan hasil yang aman dan efektif."
         }
       ]
     },
-    "melanocytic_nevi": {
+    "melanocytic_nevus": {
       "id": "5",
-      "penjelasan": "Nevus melanosik adalah istilah medis untuk tahi lalat. Tahi lalat merupakan pertumbuhan sel kulit yang menghasilkan pigmen melanin, sehingga menimbulkan bercak berwarna pada kulit. Tahi lalat dapat muncul sejak lahir atau berkembang seiring bertambahnya usia. Kebanyakan tahi lalat bersifat jinak dan tidak berbahaya, namun beberapa jenis tahi lalat memiliki potensi untuk berubah menjadi kanker kulit (melanoma). Oleh karena itu, penting untuk memantau perubahan pada tahi lalat dan berkonsultasi dengan dokter kulit jika Anda melihat adanya perubahan ukuran, bentuk, warna, atau jika tahi lalat terasa gatal atau berdarah.",
+      "penjelasan": "Melanocytic nevus, atau tahi lalat, adalah pertumbuhan jinak pada kulit yang terjadi akibat penumpukan melanosit, sel penghasil pigmen kulit. Tahi lalat ini biasanya berbentuk bulat atau oval, dengan warna yang bervariasi dari cokelat hingga hitam, dan dapat muncul di mana saja di tubuh. Sebagian besar melanocytic nevus tidak berbahaya dan tetap stabil sepanjang hidup, namun beberapa dapat berkembang menjadi melanoma, jenis kanker kulit yang agresif, meskipun ini jarang terjadi. Faktor genetik, paparan sinar matahari berlebih, dan hormon dapat memengaruhi pembentukan tahi lalat. Meskipun kebanyakan nevus tidak memerlukan pengobatan, pemeriksaan rutin penting untuk mendeteksi perubahan yang mungkin menunjukkan tanda-tanda kanker kulit.",
       "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Nevus melanosik umumnya terlihat sebagai bercak berwarna pada kulit, mulai dari coklat muda hingga hitam. Bentuknya bisa bulat, oval, atau tidak beraturan. Namun, tidak semua tahi lalat memiliki potensi untuk berubah menjadi kanker kulit. Untuk mendeteksi adanya perubahan yang perlu diwaspadai, perhatikan aturan ABCDE pada tahi lalat Anda: Asimmetri (bentuk tidak simetris), Batas tidak rata, Color (warna tidak seragam), Diameter lebih besar dari 6 mm, dan Evolution (perubahan ukuran, bentuk, atau warna seiring waktu). Jika Anda menemukan tahi lalat dengan ciri-ciri tersebut, segera konsultasikan dengan dokter kulit untuk pemeriksaan lebih lanjut."
+          "text": "Gejala melanocytic nevus biasanya berupa tahi lalat atau lesi berbentuk bulat atau oval yang berwarna cokelat, hitam, atau kadang lebih terang. Tahi lalat ini umumnya halus dan datar, meskipun beberapa dapat menonjol dari permukaan kulit. Ukurannya bervariasi, dari kecil hingga lebih besar, dan biasanya tidak menimbulkan rasa sakit. Namun, perubahan dalam bentuk, ukuran, warna, atau tekstur tahi lalat, seperti berkembang menjadi lebih besar, tidak simetris, atau memiliki tepi yang tidak teratur, dapat menjadi tanda peringatan. Tahi lalat yang terasa gatal, berdarah, atau menyebabkan nyeri juga perlu diperiksa oleh dokter untuk memastikan tidak ada indikasi kanker kulit."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyebab pasti dari terbentuknya nevus melanosik atau tahi lalat belum sepenuhnya dipahami. Namun, kondisi ini dipercaya terjadi akibat pertumbuhan sel melanosit yang tidak normal. Sel melanosit adalah sel yang menghasilkan melanin, pigmen yang memberikan warna pada kulit, rambut, dan mata. Beberapa faktor yang mungkin berperan dalam pembentukan tahi lalat termasuk faktor genetik, paparan sinar matahari, dan hormon. Meskipun sebagian besar tahi lalat bersifat jinak, penting untuk memantau perubahan pada tahi lalat untuk mendeteksi kemungkinan terjadinya melanoma, yaitu jenis kanker kulit yang paling berbahaya."
+          "text": "Melanocytic nevus terbentuk akibat penumpukan melanosit, sel penghasil pigmen kulit, yang terjadi karena faktor genetik dan paparan sinar ultraviolet (UV) dari matahari. Paparan sinar matahari berlebihan, terutama pada masa kanak-kanak atau remaja, dapat meningkatkan risiko pembentukan tahi lalat. Selain itu, faktor keturunan juga berperan, karena seseorang dengan riwayat keluarga yang memiliki tahi lalat cenderung lebih rentan mengembangkan kondisi ini. Hormon juga dapat mempengaruhi pembentukan nevus, yang menjelaskan mengapa tahi lalat sering kali muncul atau berubah selama masa kehamilan atau pubertas. Meskipun sebagian besar melanocytic nevus jinak, perubahan pada tahi lalat dapat menjadi tanda kanker kulit, seperti melanoma."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan untuk tahi lalat umumnya tidak diperlukan jika tahi lalat tersebut bersifat jinak dan tidak menimbulkan gejala. Namun, jika tahi lalat mengalami perubahan atau dianggap berisiko tinggi berubah menjadi melanoma, dokter mungkin akan menyarankan tindakan pengangkatan. Pengangkatan tahi lalat biasanya dilakukan dengan operasi kecil. Setelah pengangkatan, jaringan yang diambil akan diperiksa di laboratorium untuk memastikan tidak ada sel kanker. Pilihan pengobatan lainnya yang mungkin dipertimbangkan termasuk terapi laser atau cryosurgery (penggunaan suhu dingin untuk membekukan dan merusak jaringan). Keputusan mengenai metode pengobatan yang tepat akan disesuaikan dengan jenis tahi lalat, ukuran, lokasi, dan kondisi kesehatan pasien."
+          "text": "Pengobatan melanocytic nevus umumnya tidak diperlukan jika tahi lalat tidak menimbulkan gejala atau perubahan yang mencurigakan. Namun, jika nevus berubah bentuk, ukuran, atau warna, atau menyebabkan ketidaknyamanan, pengangkatan dapat dilakukan untuk mencegah kemungkinan kanker kulit. Metode pengobatan yang umum digunakan meliputi eksisi bedah, di mana tahi lalat diangkat dengan pisau bedah dan dijahit kembali. Alternatif lain termasuk pengangkatan dengan menggunakan laser atau krioterapi (pembekuan dengan nitrogen cair). Setelah pengangkatan, tahi lalat yang dicurigai dapat dianalisis lebih lanjut untuk memastikan tidak ada tanda-tanda kanker. Pemeriksaan rutin oleh dokter kulit juga penting untuk mendeteksi perubahan pada nevus yang mungkin memerlukan tindakan lebih lanjut."
         }
       ]
     },
-    "benign_keratosis_like_lesions": {
+    "melanoma": {
       "id": "6",
-      "penjelasan": "Lesi mirip keratosis jinak adalah istilah umum yang digunakan untuk menggambarkan berbagai jenis pertumbuhan kulit yang tidak bersifat kanker dan memiliki kemiripan dengan keratosis. Lesi ini dapat muncul dalam berbagai bentuk, ukuran, dan warna, serta sering ditemukan pada orang dewasa. Beberapa contoh lesi mirip keratosis jinak termasuk kutil seborrheic, actinic keratosis, dan nevus. Meskipun umumnya tidak berbahaya, penting untuk melakukan pemeriksaan oleh dokter kulit jika Anda menemukan lesi baru atau perubahan pada lesi yang sudah ada, karena beberapa jenis lesi dapat menyerupai kanker kulit.",
+      "penjelasan": "Melanoma adalah jenis kanker kulit yang berkembang dari melanosit, sel penghasil pigmen pada kulit. Meskipun lebih jarang dibandingkan dengan jenis kanker kulit lainnya, melanoma adalah bentuk yang paling serius dan dapat menyebar ke bagian tubuh lain jika tidak segera ditangani. Penyebab utama melanoma adalah paparan berlebihan terhadap sinar ultraviolet (UV) dari matahari atau tanning bed, yang merusak DNA dalam sel kulit. Tanda-tanda melanoma meliputi tahi lalat yang berubah bentuk, ukuran, atau warna, serta lesi yang gatal, berdarah, atau tidak rata tepinya. Deteksi dini sangat penting untuk pengobatan yang efektif, yang biasanya melibatkan eksisi bedah untuk mengangkat tumor, dan mungkin diikuti dengan kemoterapi atau imunoterapi jika kanker telah menyebar.",
       "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Lesi mirip keratosis jinak umumnya muncul sebagai benjolan kecil atau bercak pada kulit yang dapat bervariasi dalam ukuran, bentuk, dan warna. Beberapa lesi mungkin terasa kasar atau bersisik, sementara yang lainnya mungkin halus. Warna lesi dapat berkisar dari coklat muda hingga hitam, dan seringkali memiliki warna yang tidak merata. Lokasi yang sering terkena meliputi wajah, tangan, lengan, dan batang tubuh. Meskipun umumnya tidak menimbulkan gejala yang mengganggu, seperti nyeri atau gatal, lesi ini dapat menjadi masalah kosmetik bagi sebagian orang."
+          "text": "Gejala melanoma biasanya dimulai dengan perubahan pada tahi lalat atau lesi kulit yang sudah ada, seperti perubahan bentuk, ukuran, atau warna. Tahi lalat yang sebelumnya simetris bisa menjadi asimetris, dengan tepi yang tidak teratur atau kabur. Warna lesi bisa berubah, menjadi lebih gelap atau memiliki beberapa warna berbeda. Lesi juga bisa terasa gatal, berdarah, atau mengeluarkan cairan. Tahi lalat yang awalnya datar bisa menonjol atau mengeras, dan terkadang dapat menyebabkan rasa sakit. Jika gejala ini muncul, segera periksakan ke dokter kulit untuk evaluasi lebih lanjut, karena deteksi dini sangat penting untuk pengobatan melanoma yang efektif."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyebab pasti dari lesi mirip keratosis jinak belum sepenuhnya dipahami. Namun, beberapa faktor dipercaya berperan dalam pembentukan lesi ini, seperti penuaan, papar sinar matahari berlebihan, dan kerusakan kulit akibat faktor lingkungan lainnya. Selain itu, faktor genetik juga diduga memiliki peran dalam meningkatkan risiko seseorang mengalami kondisi ini. Pertumbuhan sel kulit yang tidak normal juga menjadi salah satu faktor yang berkontribusi pada pembentukan lesi. Meskipun umumnya tidak berbahaya, penting untuk melakukan pemeriksaan oleh dokter kulit jika Anda menemukan lesi baru atau perubahan pada lesi yang sudah ada, karena beberapa jenis lesi dapat menyerupai kanker kulit."
+          "text": "Penyebab utama melanoma adalah paparan berlebihan terhadap sinar ultraviolet (UV) dari matahari atau sumber buatan seperti tanning bed, yang merusak DNA sel kulit dan meningkatkan risiko kanker. Faktor genetik juga memainkan peran penting, karena riwayat keluarga dengan melanoma atau kanker kulit lainnya dapat meningkatkan kemungkinan seseorang mengembangkan penyakit ini. Selain itu, orang dengan kulit terang, banyak tahi lalat, atau sistem kekebalan tubuh yang lemah juga lebih rentan terhadap melanoma. Paparan UV yang intens, terutama pada usia muda, serta luka bakar matahari yang sering, juga dapat meningkatkan risiko berkembangnya melanoma di kemudian hari."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan untuk lesi mirip keratosis jinak biasanya tidak diperlukan jika lesi tidak mengganggu atau menimbulkan gejala. Namun, jika lesi menyebabkan ketidaknyamanan, seperti gatal atau perdarahan, atau jika Anda khawatir akan penampilannya, beberapa pilihan pengobatan dapat dipertimbangkan. Pengobatan dapat meliputi penggunaan krim topikal seperti asam salisilat atau tretinoin untuk membantu mengelupas lapisan kulit yang bermasalah. Prosedur medis seperti cryosurgery (pembekuan), electrocautery (pembakaran), atau pengangkatan bedah juga dapat dilakukan untuk menghilangkan lesi. Pilihan pengobatan terbaik akan disesuaikan dengan jenis lesi, ukuran, lokasi, dan kondisi kesehatan individu."
+          "text": "Pengobatan melanoma tergantung pada tahap dan sejauh mana penyebaran kanker. Jika terdeteksi dini, pengobatan utama adalah pengangkatan tumor melalui eksisi bedah, dengan tujuan mengangkat seluruh lesi beserta sedikit jaringan sehat di sekitarnya. Untuk melanoma yang lebih lanjut, perawatan bisa meliputi limfadenektomi (pengangkatan kelenjar getah bening), kemoterapi, imunoterapi, atau terapi target untuk membantu menghentikan pertumbuhan sel kanker atau merangsang sistem kekebalan tubuh untuk melawan kanker. Dalam beberapa kasus, terapi radiasi juga dapat digunakan. Deteksi dini dan penanganan yang cepat sangat penting untuk meningkatkan peluang kesembuhan dan mencegah penyebaran lebih lanjut."
         }
       ]
     },
-    "psoriasis_pictures_lichen_planus_and_related_diseases": {
+    "squamous_cell_carcinoma": {
       "id": "7",
-      "penjelasan": "Psoriasis, lichen planus, dan penyakit kulit terkait adalah kelompok kondisi kulit kronis yang ditandai oleh peradangan dan pertumbuhan sel kulit yang abnormal. Psoriasis, misalnya, menyebabkan munculnya bercak merah bersisik yang seringkali terasa gatal. Lichen planus, di sisi lain, ditandai oleh ruam berwarna ungu atau merah yang terasa gatal dan sering muncul di pergelangan tangan, kaki bawah, dan area genital. Penyakit-penyakit ini memiliki kemiripan dalam tampilan klinis dan patofisiologi, namun memiliki karakteristik yang membedakan. Penyebab pasti dari kondisi-kondisi ini masih belum sepenuhnya dipahami, namun faktor genetik, sistem kekebalan tubuh, dan lingkungan diduga berperan. Pengobatannya pun beragam, mulai dari krim topikal, obat oral, hingga terapi cahaya, dan disesuaikan dengan tingkat keparahan penyakit serta respons individu terhadap pengobatan.",
+      "penjelasan": "Squamous cell carcinoma (SCC) adalah jenis kanker kulit yang berkembang dari sel skuamosa, yaitu sel-sel datar yang membentuk lapisan luar kulit. SCC sering muncul pada area tubuh yang terpapar sinar matahari, seperti wajah, telinga, leher, tangan, atau bibir, meskipun bisa juga terjadi di area tubuh lainnya. Kondisi ini sering dimulai sebagai benjolan merah atau lesi kasar yang dapat mengelupas atau berdarah. Paparan sinar ultraviolet (UV) dari matahari atau tanning bed, serta faktor risiko lainnya seperti kulit terang, merokok, dan riwayat kanker kulit, dapat meningkatkan kemungkinan berkembangnya SCC. Jika tidak ditangani, SCC dapat menyebar ke jaringan di sekitarnya, namun deteksi dan pengobatan dini biasanya menghasilkan prognosis yang baik.",
       "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Psoriasis, lichen planus, dan penyakit kulit terkait umumnya ditandai oleh ruam kulit yang khas. Psoriasis seringkali muncul sebagai bercak merah bersisik yang dapat bervariasi dalam ukuran dan lokasi. Sisik-sisik ini dapat terasa gatal dan sering ditemukan pada kulit kepala, siku, lutut, dan punggung bawah. Lichen planus biasanya menyebabkan ruam berwarna ungu atau merah yang terasa gatal dan sering muncul di pergelangan tangan, kaki bawah, dan area genital. Ruam ini sering memiliki permukaan yang mengkilap dan dapat meninggalkan bekas luka berwarna coklat setelah sembuh.Penyakit kulit terkait lainnya seperti dermatitis atopik dan eksim juga dapat menyebabkan ruam, namun dengan karakteristik yang sedikit berbeda. Gejala lain yang mungkin muncul termasuk kulit kering, pecah-pecah, dan rasa terbakar. Lokasi dan keparahan gejala dapat bervariasi antar individu dan tergantung pada jenis penyakit kulit yang diderita."
+          "text": "Gejala squamous cell carcinoma (SCC) biasanya dimulai dengan munculnya benjolan keras atau lesi merah pada kulit yang terasa kasar atau bersisik. Lesi ini bisa berdarah atau mengelupas, dan sering kali tidak sembuh meskipun telah diobati. Area yang terpapar sinar matahari, seperti wajah, leher, telinga, dan tangan, sering menjadi lokasi utama munculnya SCC. Selain itu, lesi SCC dapat berkembang menjadi luka terbuka yang tidak sembuh-sembuh, menimbulkan rasa nyeri, atau gatal. Jika SCC mulai menyebar ke jaringan lebih dalam, bisa menyebabkan pembengkakan atau pembesaran kelenjar getah bening di dekatnya."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyebab pasti dari psoriasis, lichen planus, dan penyakit kulit terkait lainnya masih belum sepenuhnya dipahami. Namun, para ahli medis percaya bahwa kondisi-kondisi ini muncul akibat kombinasi faktor genetik dan lingkungan. Sistem kekebalan tubuh memainkan peran penting dalam perkembangan penyakit-penyakit ini, di mana sistem kekebalan tubuh secara keliru menyerang sel-sel kulit sehat, menyebabkan peradangan dan pembentukan plak."
+          "text": "Penyebab utama squamous cell carcinoma (SCC) adalah paparan berlebihan terhadap sinar ultraviolet (UV) dari matahari atau sumber buatan seperti tanning bed, yang merusak DNA sel kulit dan meningkatkan risiko kanker. Faktor risiko lainnya termasuk memiliki kulit terang, riwayat keluarga dengan kanker kulit, dan sistem kekebalan tubuh yang lemah, misalnya pada individu yang menjalani transplantasi organ atau mengidap HIV/AIDS. Merokok juga dapat meningkatkan risiko SCC, terutama pada area kulit yang terpapar asap rokok, seperti bibir. Paparan UV yang sering, baik melalui sinar matahari langsung atau sumber buatan, adalah faktor utama yang memicu perkembangan SCC pada kulit."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan untuk psoriasis, lichen planus, dan penyakit kulit terkait lainnya bertujuan untuk mengurangi peradangan, menghambat pertumbuhan sel kulit yang abnormal, dan meredakan gejala seperti gatal dan nyeri. Pilihan pengobatan sangat bervariasi dan disesuaikan dengan jenis penyakit, tingkat keparahan, dan respons individu terhadap pengobatan. Terapi yang umum digunakan meliputi: krim atau salep topikal (misalnya kortikosteroid, vitamin D analog), obat oral (misalnya methotrexate, cyclosporine), terapi cahaya (fototerapi), dan obat biologis (menghambat sistem kekebalan tubuh). Selain pengobatan medis, perubahan gaya hidup seperti menghindari pemicu (misalnya stres, infeksi), menjaga kelembapan kulit, dan mengadopsi pola makan sehat juga dapat membantu mengelola penyakit. Penting untuk berkonsultasi dengan dokter kulit untuk mendapatkan diagnosis yang tepat dan rencana pengobatan yang paling sesuai."
+          "text": "Pengobatan squamous cell carcinoma (SCC) biasanya dimulai dengan pengangkatan lesi kanker melalui eksisi bedah, di mana tumor dan jaringan sehat di sekitarnya diangkat untuk mencegah penyebaran lebih lanjut. Jika SCC telah menyebar atau terletak di area yang sulit dijangkau, prosedur lain seperti terapi radiasi atau kemoterapi lokal mungkin diperlukan. Dalam beberapa kasus, terapi imun atau terapi target dapat digunakan untuk membantu tubuh melawan kanker. Untuk SCC yang telah menyebar ke kelenjar getah bening atau jaringan lainnya, operasi untuk mengangkat kelenjar getah bening yang terinfeksi bisa dilakukan. Deteksi dan pengobatan dini sangat penting untuk meningkatkan peluang kesembuhan."
         }
       ]
     },
-    "seborrheic_keratoses_and_other_benign_tumors": {
+    "vascular_lesion": {
       "id": "8",
-      "penjelasan": "Keratosis Seboroik dan tumor jinak kulit lainnya merupakan pertumbuhan sel kulit yang tidak berbahaya (jinak) dan sering terjadi seiring bertambahnya usia. Keratosis Seboroik, misalnya, adalah benjolan kecil yang berwarna kecokelatan atau hitam, seringkali memiliki permukaan kasar seperti kutil, dan sering muncul di wajah, dada, atau punggung. Selain Keratosis Seboroik, ada berbagai jenis tumor jinak kulit lainnya seperti kista, mol, dan papiloma. Penyebab pasti dari tumor-tumor ini belum sepenuhnya dipahami, namun faktor usia, paparan sinar matahari, dan genetika diduga berperan. Meskipun umumnya tidak berbahaya, penting untuk berkonsultasi dengan dokter kulit jika Anda menemukan benjolan baru atau perubahan pada benjolan yang sudah ada, agar dapat dibedakan dengan lesi yang bersifat kanker.",
+      "penjelasan": "Vascular lesion adalah kelainan pada pembuluh darah yang muncul di kulit, yang dapat berupa pembuluh darah yang membesar, melebar, atau rusak. Lesi ini sering terlihat sebagai bercak merah, ungu, atau biru pada kulit, dan bisa berupa pembuluh darah kecil (seperti spider veins atau telangiektasia) atau lebih besar, seperti hemangioma. Penyebab umum vascular lesion termasuk faktor genetik, penuaan, cedera, atau paparan sinar matahari berlebih. Beberapa vascular lesion bisa bersifat jinak dan tidak menimbulkan masalah kesehatan, namun jika menyebabkan rasa sakit atau masalah estetika, perawatan seperti laser atau skleroterapi dapat dilakukan untuk menghilangkan atau mengecilkannya.",
       "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
           "kategori": "Gejala",
-          "text": "Keratosis Seboroik dan tumor jinak kulit lainnya umumnya memiliki gejala yang khas, meskipun penampilannya bisa bervariasi antar individu. Keratosis Seboroik seringkali terlihat sebagai benjolan kecil yang berwarna kecokelatan atau hitam, dengan permukaan yang kasar seperti kutil. Benjolan ini biasanya tidak menimbulkan rasa sakit atau gatal, namun bisa terasa sedikit kasar saat disentuh. Tumor jinak kulit lainnya seperti kista dapat terasa seperti benjolan berisi cairan di bawah kulit, sementara mol biasanya datar atau sedikit menonjol, dengan warna yang bisa bervariasi dari cokelat muda hingga hitam. Perubahan warna, ukuran, atau bentuk dari benjolan kulit dapat menjadi tanda bahwa benjolan tersebut perlu diperiksa lebih lanjut oleh dokter."
+          "text": "Gejala vascular lesion biasanya berupa perubahan warna pada kulit, seperti munculnya bercak merah, biru, atau ungu, yang disebabkan oleh pembuluh darah yang membesar atau rusak. Lesi ini dapat muncul sebagai pembuluh darah kecil yang berbentuk seperti jaringan laba-laba (spider veins) atau pembuluh darah yang lebih besar, seperti hemangioma, yang dapat terlihat menonjol di permukaan kulit. Pada beberapa kasus, vascular lesion bisa menyebabkan rasa sakit, perasaan tertekan, atau rasa gatal di area yang terpengaruh, meskipun banyak lesi tidak menimbulkan gejala selain perubahan penampilan kulit. Jika lesi terus berkembang atau mengganggu fungsi kulit, konsultasi dengan dokter kulit sangat disarankan."
         },
         {
           "id": "2",
           "kategori": "Penyebab",
-          "text": "Penyebab pasti dari Keratosis Seboroik dan tumor jinak kulit lainnya masih belum sepenuhnya dipahami. Namun, para ahli menduga bahwa beberapa faktor berperan dalam perkembangan kondisi ini. Usia merupakan faktor risiko utama, karena tumor jinak kulit ini lebih sering muncul pada orang tua. Paparan sinar matahari dalam jangka waktu yang lama juga diduga dapat memicu pertumbuhan tumor ini. Selain itu, faktor genetik juga dipercaya memiliki peran, karena beberapa orang memiliki kecenderungan genetik untuk mengembangkan tumor jinak kulit. Perubahan sel kulit yang normal seiring bertambahnya usia juga dapat menjadi faktor penyebab. Meskipun begitu, tumor jinak kulit umumnya tidak berbahaya dan tidak bersifat kanker."
+          "text": "Penyebab vascular lesion dapat bervariasi, namun sering kali berkaitan dengan faktor genetik, penuaan, atau kerusakan pada pembuluh darah akibat cedera atau paparan sinar matahari berlebihan. Kondisi medis tertentu, seperti hipertensi, kehamilan, atau gangguan pembekuan darah, juga dapat meningkatkan risiko munculnya vascular lesion. Selain itu, faktor gaya hidup seperti merokok atau obesitas dapat memperburuk kondisi pembuluh darah dan mempercepat pembentukan lesi. Vascular lesion juga bisa terbentuk akibat peradangan atau trauma pada pembuluh darah, yang menyebabkan pelebaran atau kerusakan pada dinding pembuluh darah tersebut."
         },
         {
           "id": "3",
           "kategori": "Cara Pengobatan",
-          "text": "Pengobatan untuk Keratosis Seboroik dan tumor jinak kulit lainnya biasanya tidak diperlukan jika tidak menimbulkan gangguan atau ketidaknyamanan. Namun, jika Anda ingin menghilangkannya karena alasan estetika atau jika benjolan tersebut terus membesar atau menyebabkan iritasi, beberapa pilihan pengobatan dapat dilakukan. Pilihan pengobatan yang umum meliputi: pengangkatan bedah, krioterapi (pembekuan dengan nitrogen cair), kuretase (pengikisan), terapi laser, atau penggunaan obat-obatan topikal. Pilihan pengobatan terbaik akan disesuaikan dengan jenis tumor, ukuran, lokasi, dan kondisi kesehatan Anda secara keseluruhan. Penting untuk berkonsultasi dengan dokter kulit untuk mendapatkan diagnosis yang tepat dan rencana pengobatan yang sesuai."
-        }
-      ]
-    },
-    "tinea_ringworm_candidiasis_and_other_fungal_infections": {
-      "id": "9",
-      "penjelasan": "Infeksi jamur pada kulit merupakan kondisi umum yang disebabkan oleh pertumbuhan berlebih dari jamur pada lapisan kulit. Beberapa jenis infeksi jamur kulit yang sering ditemui adalah Tinea (kurap), yang meliputi kurap badan, kurap kaki, dan kurap kepala; Ringworm (kurap), yang memiliki gejala serupa dengan Tinea; serta Candidiasis, yang disebabkan oleh jamur Candida. Gejala infeksi jamur kulit bervariasi tergantung pada jenis jamur dan lokasi infeksi, namun umumnya meliputi ruam kemerahan, gatal, bersisik, atau lepuh. Faktor risiko yang dapat meningkatkan kemungkinan infeksi jamur kulit antara lain kelembaban yang tinggi, kontak dengan orang yang terinfeksi, sistem kekebalan tubuh yang lemah, dan penggunaan antibiotik jangka panjang. Pengobatan infeksi jamur kulit biasanya melibatkan penggunaan obat antijamur topikal atau oral, tergantung pada tingkat keparahan infeksi.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
-      "jawaban": [
-        {
-          "id": "1",
-          "kategori": "Gejala",
-          "text": "Gejala infeksi jamur kulit dapat bervariasi tergantung pada jenis jamur dan bagian tubuh yang terinfeksi, namun umumnya meliputi ruam kemerahan yang seringkali berbentuk lingkaran atau bergaris. Ruam ini biasanya gatal, bersisik, dan dapat disertai dengan lepuh kecil. Area yang sering terkena infeksi jamur adalah kulit kepala, tubuh, selangkangan, kaki, dan kuku. Pada infeksi Candidiasis, ruam cenderung berwarna merah terang dan lembap, seringkali muncul di area lipatan kulit seperti selangkangan atau di bawah payudara. Infeksi jamur pada kuku dapat menyebabkan kuku menjadi tebal, rapuh, dan berubah warna. Gatal yang intens adalah salah satu gejala yang paling umum dan dapat mengganggu aktivitas sehari-hari."
-        },
-        {
-          "id": "2",
-          "kategori": "Penyebab",
-          "text": "Penyebab utama infeksi jamur kulit adalah pertumbuhan berlebih dari jamur pada lapisan kulit. Jamur ini dapat menular melalui kontak langsung dengan orang yang terinfeksi, hewan, atau benda yang terkontaminasi seperti handuk, pakaian, atau lantai kamar mandi. Faktor risiko yang dapat meningkatkan kemungkinan infeksi jamur kulit antara lain: kondisi kulit yang lembap dan hangat, sistem kekebalan tubuh yang lemah, penggunaan antibiotik jangka panjang, diabetes, obesitas, dan gesekan kulit yang berulang. Selain itu, penggunaan obat-obatan tertentu dan kondisi medis tertentu juga dapat meningkatkan risiko infeksi jamur. Jenis jamur yang paling sering menyebabkan infeksi kulit adalah dermatofit, seperti Trichophyton dan Microsporum, serta jamur Candida."
-        },
-        {
-          "id": "3",
-          "kategori": "Cara Pengobatan",
-          "text": "Pengobatan infeksi jamur kulit umumnya bertujuan untuk membunuh jamur penyebab infeksi dan meredakan gejala seperti gatal dan peradangan. Pilihan pengobatan yang diberikan oleh dokter akan disesuaikan dengan jenis jamur, lokasi infeksi, dan tingkat keparahannya. Obat antijamur topikal seperti krim, salep, atau lotion sering digunakan untuk infeksi ringan hingga sedang. Obat antijamur oral dalam bentuk kapsul atau tablet mungkin diperlukan untuk infeksi yang lebih parah atau infeksi yang sulit diobati dengan obat topikal. Selain obat-obatan, menjaga kebersihan kulit, menghindari berbagi barang pribadi, dan menjaga kelembaban kulit agar tetap seimbang juga penting untuk mempercepat proses penyembuhan dan mencegah infeksi berulang. Penting untuk menyelesaikan seluruh rangkaian pengobatan yang diberikan oleh dokter, meskipun gejala sudah mulai membaik, untuk memastikan infeksi benar-benar sembuh."
-        }
-      ]
-    },
-    "warts_molluscum_and_other_viral_infections": {
-      "id": "10",
-      "penjelasan": "Infeksi virus pada kulit merupakan kondisi yang umum terjadi dan disebabkan oleh berbagai jenis virus. Warts atau kutil adalah pertumbuhan kulit yang disebabkan oleh Human Papillomavirus (HPV). Kutil dapat muncul di berbagai bagian tubuh dan memiliki penampilan yang bervariasi. Molluscum contagiosum adalah infeksi kulit yang disebabkan oleh poxvirus dan ditandai dengan benjolan kecil yang berisi cairan putih. Selain warts dan molluscum contagiosum, ada banyak jenis infeksi virus kulit lainnya yang dapat menyebabkan gejala seperti ruam, lepuh, atau benjolan. Penularan infeksi virus kulit sering terjadi melalui kontak langsung dengan kulit yang terinfeksi, penggunaan barang pribadi bersama, atau kontak dengan permukaan yang terkontaminasi. Pengobatan infeksi virus kulit dapat melibatkan penggunaan obat-obatan topikal, terapi pembekuan, atau pengangkatan bedah, tergantung pada jenis virus dan tingkat keparahan infeksi.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
-      "jawaban": [
-        {
-          "id": "1",
-          "kategori": "Gejala",
-          "text": "Gejala infeksi virus kulit dapat bervariasi tergantung pada jenis virus dan bagian tubuh yang terinfeksi. Kutil biasanya muncul sebagai benjolan kecil yang kasar dan berwarna kulit, namun bisa juga berwarna cokelat atau hitam. Kutil dapat muncul di mana saja di tubuh, namun sering ditemukan pada tangan, kaki, dan sekitar kuku. Molluscum contagiosum ditandai dengan benjolan kecil yang berkilau, seperti mutiara, dengan pusat yang cekung. Benjolan ini biasanya tidak nyeri, namun dapat terasa gatal. Infeksi virus kulit lainnya dapat menyebabkan ruam, lepuh, atau benjolan yang bervariasi dalam ukuran dan warna. Gatal adalah salah satu gejala yang umum, dan kadang-kadang dapat terjadi pembengkakan atau nyeri."
-        },
-        {
-          "id": "2",
-          "kategori": "Penyebab",
-          "text": "Penyebab utama infeksi virus kulit adalah penularan virus dari orang ke orang atau dari permukaan yang terkontaminasi. Virus ini dapat masuk ke dalam tubuh melalui luka kecil pada kulit atau selaput lendir. Faktor risiko yang dapat meningkatkan kemungkinan infeksi virus kulit antara lain: sistem kekebalan tubuh yang lemah, sering berganti-ganti pasangan seksual, penggunaan fasilitas umum seperti kolam renang atau kamar mandi, dan kebiasaan menggigit kuku atau jari. Jenis virus yang menyebabkan infeksi kulit sangat beragam, termasuk Human Papillomavirus (HPV) yang menyebabkan warts, poxvirus yang menyebabkan molluscum contagiosum, dan virus herpes simplex yang menyebabkan herpes."
-        },
-        {
-          "id": "3",
-          "kategori": "Cara Pengobatan",
-          "text": "Pengobatan infeksi virus kulit bertujuan untuk menghilangkan virus penyebab infeksi dan mengurangi gejala yang timbul. Pilihan pengobatan dapat bervariasi tergantung pada jenis virus, lokasi, ukuran, dan jumlah lesi, serta kondisi kesehatan individu. Beberapa metode pengobatan yang umum digunakan meliputi: pemberian obat-obatan topikal (krim atau salep) yang mengandung asam salisilat atau asam trikloroasetat untuk mengangkat lapisan kulit yang terinfeksi, terapi pembekuan dengan nitrogen cair untuk merusak jaringan yang terinfeksi, pengangkatan lesi secara bedah, dan pemberian obat-obatan antivirus oral dalam kasus tertentu. Sistem kekebalan tubuh juga berperan penting dalam melawan infeksi virus kulit. Oleh karena itu, menjaga kesehatan tubuh secara umum dan mengonsumsi makanan bergizi dapat membantu mempercepat proses penyembuhan. Penting untuk berkonsultasi dengan dokter untuk mendapatkan diagnosis dan penanganan yang tepat, karena beberapa infeksi virus kulit dapat sembuh dengan sendirinya dalam beberapa bulan."
+          "text": "Pengobatan vascular lesion tergantung pada jenis dan tingkat keparahannya. Untuk lesi kecil seperti spider veins, perawatan non-bedah seperti terapi laser atau sclerotherapy (injeksi larutan yang menyebabkan pembuluh darah menyusut) sering digunakan untuk menghilangkan atau mengecilkan lesi. Pembuluh darah yang lebih besar, seperti hemangioma, mungkin memerlukan pengangkatan melalui prosedur bedah atau cryotherapy (pembekuan dengan nitrogen cair). Terapi laser juga dapat digunakan untuk meredakan gejala dan memperbaiki penampilan kulit yang terpengaruh. Jika lesi menyebabkan rasa sakit atau masalah fungsi, konsultasi dengan dokter kulit diperlukan untuk menentukan pilihan pengobatan yang paling tepat."
         }
       ]
     }
