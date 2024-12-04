@@ -3,7 +3,7 @@
     "actinic_keratosis": {
       "id": "1",
       "penjelasan": "Actinic keratosis adalah kondisi kulit yang ditandai oleh munculnya bercak atau lesi kasar dan bersisik akibat paparan sinar matahari yang berkepanjangan. Biasanya, penyakit ini muncul di area tubuh yang sering terpapar sinar matahari, seperti wajah, tangan, lengan, atau leher. Actinic keratosis dianggap sebagai lesi prakanker karena memiliki potensi untuk berkembang menjadi karsinoma sel skuamosa, jenis kanker kulit yang serius. Faktor risiko utama meliputi kulit terang, usia lanjut, dan riwayat paparan UV yang signifikan. Diagnosis dini penting agar pengobatan, seperti terapi topikal, krioterapi, atau laser, dapat mencegah perkembangan menjadi kanker.",
-      "pertanyaan": "(1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -25,7 +25,7 @@
     "basal_cell_carcinoma": {
       "id": "2",
       "penjelasan": "Basal cell carcinoma (BCC) adalah jenis kanker kulit paling umum yang berkembang di lapisan basal epidermis, yaitu lapisan terdalam dari kulit. Penyakit ini sering muncul sebagai benjolan kecil yang berwarna cerah, transparan, atau sedikit merah muda, dengan pembuluh darah yang terlihat atau permukaan yang berkerak. BCC biasanya terjadi akibat paparan sinar ultraviolet (UV) yang berkepanjangan, sehingga lebih sering ditemukan di area tubuh yang sering terpapar sinar matahari, seperti wajah, leher, atau tangan. Meskipun jarang menyebar ke bagian tubuh lain, BCC dapat menyebabkan kerusakan jaringan lokal yang signifikan jika tidak segera diobati. Deteksi dini dan pengobatan, seperti eksisi bedah, krioterapi, atau terapi topikal, dapat membantu mencegah komplikasi lebih lanjut.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -47,7 +47,7 @@
     "benign_keratosis": {
       "id": "3",
       "penjelasan": "Benign keratosis adalah istilah umum untuk sejumlah kondisi kulit yang melibatkan pertumbuhan jinak atau non-kanker pada lapisan epidermis. Contoh paling umum adalah keratosis seboroik, yang ditandai oleh bercak atau plak cokelat, hitam, atau kuning yang terasa kasar atau lilin dan biasanya muncul pada orang dewasa atau lansia. Kondisi ini tidak berbahaya dan tidak terkait dengan paparan sinar matahari, berbeda dengan keratosis aktinik. Meski penyebab pastinya belum sepenuhnya dipahami, faktor genetik dan penuaan dianggap berperan. Benign keratosis tidak memerlukan pengobatan kecuali menyebabkan ketidaknyamanan atau alasan kosmetik, yang dapat ditangani dengan pengangkatan menggunakan krioterapi, kuretase, atau laser.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -69,7 +69,7 @@
     "dermatofibroma": {
       "id": "4",
       "penjelasan": "Dermatofibroma adalah benjolan jinak yang terbentuk di bawah kulit akibat penumpukan kolagen, sering muncul pada lengan, kaki, atau punggung. Lesi ini biasanya berukuran kecil, berbentuk bulat, dan berwarna cokelat atau keunguan. Meskipun tidak berbahaya, dermatofibroma dapat terasa keras dan terkadang gatal atau sedikit nyeri saat ditekan. Penyebab pasti dari kondisi ini tidak sepenuhnya diketahui, namun faktor genetik, trauma ringan, atau infeksi sebelumnya bisa berperan dalam perkembangannya. Meskipun umumnya tidak memerlukan pengobatan, dermatofibroma bisa diangkat jika mengganggu atau menyebabkan ketidaknyamanan, menggunakan prosedur seperti eksisi bedah atau krioterapi.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -91,7 +91,7 @@
     "melanocytic_nevus": {
       "id": "5",
       "penjelasan": "Melanocytic nevus, atau tahi lalat, adalah pertumbuhan jinak pada kulit yang terjadi akibat penumpukan melanosit, sel penghasil pigmen kulit. Tahi lalat ini biasanya berbentuk bulat atau oval, dengan warna yang bervariasi dari cokelat hingga hitam, dan dapat muncul di mana saja di tubuh. Sebagian besar melanocytic nevus tidak berbahaya dan tetap stabil sepanjang hidup, namun beberapa dapat berkembang menjadi melanoma, jenis kanker kulit yang agresif, meskipun ini jarang terjadi. Faktor genetik, paparan sinar matahari berlebih, dan hormon dapat memengaruhi pembentukan tahi lalat. Meskipun kebanyakan nevus tidak memerlukan pengobatan, pemeriksaan rutin penting untuk mendeteksi perubahan yang mungkin menunjukkan tanda-tanda kanker kulit.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -113,7 +113,7 @@
     "melanoma": {
       "id": "6",
       "penjelasan": "Melanoma adalah jenis kanker kulit yang berkembang dari melanosit, sel penghasil pigmen pada kulit. Meskipun lebih jarang dibandingkan dengan jenis kanker kulit lainnya, melanoma adalah bentuk yang paling serius dan dapat menyebar ke bagian tubuh lain jika tidak segera ditangani. Penyebab utama melanoma adalah paparan berlebihan terhadap sinar ultraviolet (UV) dari matahari atau tanning bed, yang merusak DNA dalam sel kulit. Tanda-tanda melanoma meliputi tahi lalat yang berubah bentuk, ukuran, atau warna, serta lesi yang gatal, berdarah, atau tidak rata tepinya. Deteksi dini sangat penting untuk pengobatan yang efektif, yang biasanya melibatkan eksisi bedah untuk mengangkat tumor, dan mungkin diikuti dengan kemoterapi atau imunoterapi jika kanker telah menyebar.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -135,7 +135,7 @@
     "squamous_cell_carcinoma": {
       "id": "7",
       "penjelasan": "Squamous cell carcinoma (SCC) adalah jenis kanker kulit yang berkembang dari sel skuamosa, yaitu sel-sel datar yang membentuk lapisan luar kulit. SCC sering muncul pada area tubuh yang terpapar sinar matahari, seperti wajah, telinga, leher, tangan, atau bibir, meskipun bisa juga terjadi di area tubuh lainnya. Kondisi ini sering dimulai sebagai benjolan merah atau lesi kasar yang dapat mengelupas atau berdarah. Paparan sinar ultraviolet (UV) dari matahari atau tanning bed, serta faktor risiko lainnya seperti kulit terang, merokok, dan riwayat kanker kulit, dapat meningkatkan kemungkinan berkembangnya SCC. Jika tidak ditangani, SCC dapat menyebar ke jaringan di sekitarnya, namun deteksi dan pengobatan dini biasanya menghasilkan prognosis yang baik.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
@@ -154,10 +154,10 @@
         }
       ]
     },
-    "vascular_lesion": {
+    "vascular_lesions": {
       "id": "8",
       "penjelasan": "Vascular lesion adalah kelainan pada pembuluh darah yang muncul di kulit, yang dapat berupa pembuluh darah yang membesar, melebar, atau rusak. Lesi ini sering terlihat sebagai bercak merah, ungu, atau biru pada kulit, dan bisa berupa pembuluh darah kecil (seperti spider veins atau telangiektasia) atau lebih besar, seperti hemangioma. Penyebab umum vascular lesion termasuk faktor genetik, penuaan, cedera, atau paparan sinar matahari berlebih. Beberapa vascular lesion bisa bersifat jinak dan tidak menimbulkan masalah kesehatan, namun jika menyebabkan rasa sakit atau masalah estetika, perawatan seperti laser atau skleroterapi dapat dilakukan untuk menghilangkan atau mengecilkannya.",
-      "pertanyaan": "Apa yang ingin Anda ketahui tentang kurap? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
+      "pertanyaan": "Apa yang ingin Anda ketahui tentang penyakit ini? (1: Gejala, 2: Penyebab, 3: Cara Pengobatan)",
       "jawaban": [
         {
           "id": "1",
